@@ -1,0 +1,24 @@
+{
+  "name": "palindrome-bootcamp",
+  "version": "1.0.0",
+  "description": "Palindrome Checker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaimaBogran/node-palindrome-bootcamp.git"
+  },
+  "author": "Naima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaimaBogran/node-palindrome-bootcamp/issues"
+  },
+  "homepage": "https://github.com/NaimaBogran/node-palindrome-bootcamp#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "figlet": "^1.9.3"
+  }
+}

@@ -9,4 +9,4 @@
 
 * **Frontend:** HTML5, CSS3, Vanilla JavaScript (ES6+)
 * **Core Concepts:** DOM Manipulation, Advanced Event Handling (Event Delegation), and Client-Side State Management.
-* **Deployment:** Git Pages
+* **Deployment:** Render
